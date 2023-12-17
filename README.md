@@ -12,8 +12,8 @@ This project is designed to create a Purchase Certificate SQL Table based on Pal
    
 4. If an input row lacks ParcelCode but has a price, assign that price to the entire order.
 
-   ## Project Structure:
+### Project Structure:
 
 - `purchase_certificate.sql`: SQL file for creating the Purchase Certificate table.
-- `test_cases.sql`: Test cases to ensure the functionality of the system.
+- `test_cases.xlsx`: Test cases to ensure the functionality of the system.
 - `ER_model.png`: Entity-Relationship model representing the database structure.
