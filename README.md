@@ -15,5 +15,5 @@ This project is designed to create a Purchase Certificate SQL Table based on Pal
 ### Project Structure:
 
 - `purchase_certificate.sql`: SQL file for creating the Purchase Certificate table.
-- `test_cases.xlsx`: Test cases to ensure the functionality of the system.
+- `TSs,TCs.docx`: Test cases to ensure the functionality of the system.
 - `ER_model.png`: Entity-Relationship model representing the database structure.
